@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
 
  
 app.get('/dia', function(req, res) {  
-      var response = 'Hello1  response from server: ' + hostName + ' and port :' + port; 
+      var response = 'DIA  response from server: ' + hostName + ' and port :' + port; 
           console.log("Got a GET request for DIA");
           res.send(response);
     });
