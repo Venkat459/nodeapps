@@ -1,0 +1,10 @@
+nodeapp1/node_modules
+nodeapps1/server.crt
+nodeapp1/server.key
+
+
+nodeapp2/node_modules
+nodeapp2/server.crt
+nodeapp2/server.key
+
+dockernodeapp1/node_modules
